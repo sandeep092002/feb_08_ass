@@ -1,0 +1,3 @@
+a=int(input("Enter in kilometers: "))
+b=a*(10**5)
+print("Value in centimeters",b)
